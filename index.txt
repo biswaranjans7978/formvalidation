@@ -1,0 +1,5 @@
+1.empty field
+2.valid email
+3.phone no should be 10 digit
+4.password should be equal with cnfpassword
+password must be 6 charecter
